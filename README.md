@@ -117,11 +117,16 @@ signature standard (Euclidean Algorithm).
 ## ALGORITHM:
 
 STEP-1: Alice and Bob are investigating a forgery case of x and y.
+
 STEP-2: X had document signed by him but he says he did not sign that document digitally.
+
 STEP-3: Alice reads the two prime numbers p and a.
+
 STEP-4: He chooses a random co-primes alpha and beta and the x’s original signature x.
+
 STEP-5: With these values, he applies it to the elliptic curve cryptographic equation to obtain
-y
+y.
+
 STEP-6: Comparing this ‘y’ with actual y’s document, Alice concludes that y is a
 forgery.
 
@@ -221,7 +226,8 @@ signature\n ");
 }
 ```
 ## OUTPUT:
-![image](https://github.com/IsaacAIML2023/Ex-04/assets/158465339/337034c5-ea1c-4332-a753-7c5b679325f2)
+![image](https://github.com/Raghulshanmugam2004/Ex-04/assets/119561118/c3d4c5db-0011-4b43-ae30-ee94b362908c)
+
 
 ## RESULT:
 Thus program to implement the signature scheme named digital signature standard (Euclidean Algorithm) is implementeds successfully.
